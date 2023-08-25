@@ -90,7 +90,7 @@ body {
 }
 .navigation-list {
   display: flex;
-  column-gap: 40px;
+  gap: 40px;
   margin-left: 76px;
 }
 
@@ -118,7 +118,7 @@ body {
 .adress-list {
   list-style-type: none;
   display: flex;
-  column-gap: 40px;
+  gap: 40px;
 }
 
 .adress-list li a {
