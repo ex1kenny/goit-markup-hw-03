@@ -45,6 +45,9 @@ body {
 .list {
   list-style: none;
 }
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
+}
 .page-header-container {
   display: flex;
   align-items: center;
@@ -66,6 +69,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   display: flex;
+  margin-right: 76px;
 }
 .logo {
   color: #2e2f42;
@@ -158,6 +162,7 @@ body {
   display: block;
   min-width: 169px;
   border-radius: 4px;
+  height: 56px;
 }
 .button:hover {
   color: #ffffff;
