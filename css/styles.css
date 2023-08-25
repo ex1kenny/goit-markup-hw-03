@@ -1,0 +1,159 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  color: #434455;
+  background-color: #ffffff;
+}
+.link {
+  text-decoration: none;
+}
+.header-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo {
+  color: #2e2f42;
+}
+.footer-logo {
+  color: #f4f4fd;
+}
+.last-title {
+  color: #f4f4fd;
+}
+
+.page-footer {
+  background-color: #2e2f42;
+}
+.navigation-list {
+  list-style: none;
+}
+.navigation-list li {
+  margin: 10px 0;
+}
+.navigation-list li a {
+  font-weight: 500;
+  color: #2e2f42;
+  text-decoration: none;
+}
+.navigation-list li a:hover {
+  color: #404bbf;
+}
+
+.navigation-list li a:active {
+  color: #404bbf;
+}
+
+.info-list {
+  margin: 10px 0;
+  font-weight: 400;
+  color: #434455;
+  text-decoration: none;
+  font-style: normal;
+}
+.list {
+  list-style-type: none;
+}
+.list li {
+  margin-bottom: 8px;
+}
+.list li a {
+  color: #434455;
+  text-decoration: none;
+}
+
+.list li a:hover {
+  color: #404bbf;
+}
+.list li a:active {
+  color: #404bbf;
+}
+.link:focus {
+  color: #404bbf;
+}
+.page-title {
+  color: #fff;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
+  text-align: center;
+  line-height: 1.07;
+}
+
+.button {
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+  background-color: #4d5ae5;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.64px;
+  border: none;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+.button:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.button:focus {
+  background-color: #404bbf;
+}
+.container {
+  background-color: #2e2f42;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+  color: #2e2f42;
+}
+.team-title {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0, 72px;
+  text-transform: capitalize;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+.portfolio-list {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0, 72px;
+  text-transform: capitalize;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+.section-title {
+  background-color: #f4f4fd;
+}
+
+.team-back {
+  background-color: #ffffff;
+}
