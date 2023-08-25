@@ -249,8 +249,7 @@ h6 {
   border-radius: 0px 0px 4px 4px;
 }
 .work-name {
-  padding-top: 32px;
-  padding-bottom: 32px;
+  padding: 32px 0;
 }
 .team {
   display: flex;
